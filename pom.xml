@@ -9,7 +9,7 @@
         <version>2.0.4.RELEASE</version>
     </parent>
 
-    <groupId>com.github.binarywang</groupId>
+    <groupId>com.github.fsrmqi</groupId>
     <version>1.0.0-SNAPSHOT</version>
     <artifactId>weixin-java-mp-demo-springboot</artifactId>
     <packaging>jar</packaging>
