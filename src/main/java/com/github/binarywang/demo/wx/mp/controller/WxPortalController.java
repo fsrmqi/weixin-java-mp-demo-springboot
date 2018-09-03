@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ * @author cjqzazj@gmail.com
  */
 @RestController
 @RequestMapping("/wx/portal/{appid}")

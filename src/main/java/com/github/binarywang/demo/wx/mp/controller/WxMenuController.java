@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import static me.chanjar.weixin.common.api.WxConsts.MenuButtonType;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ * @author cjqzazj@gmail.com
  */
 @RestController
 @RequestMapping("/wx/menu/{appid}")

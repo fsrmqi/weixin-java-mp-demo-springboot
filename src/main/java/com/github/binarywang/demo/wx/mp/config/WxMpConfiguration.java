@@ -20,7 +20,7 @@ import static me.chanjar.weixin.common.api.WxConsts.*;
 /**
  * wechat mp configuration
  *
- * @author Binary Wang(https://github.com/binarywang)
+ * @author cjqzazj@gmail.com
  */
 @Configuration
 @EnableConfigurationProperties(WxMpProperties.class)

@@ -1,7 +1,7 @@
 package com.github.binarywang.demo.wx.mp.handler;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ * @author cjqzazj@gmail.com
  */
 public abstract class ScanHandler extends AbstractHandler {
 

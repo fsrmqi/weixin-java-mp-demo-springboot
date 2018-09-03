@@ -15,7 +15,7 @@ import java.util.Map;
 import static me.chanjar.weixin.common.api.WxConsts.XmlMsgType;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ * @author cjqzazj@gmail.com
  */
 @Component
 public class MsgHandler extends AbstractHandler {
